@@ -60,12 +60,12 @@ V0609;1 ;Concluiu, com aprovação, pelo menos a 1ª série deste curso que freq
 V0610;1 ;Última série concluída com aprovação, neste curso que frequentou anteriormente
 V0611;1 ;Concluiu este curso que frequentou anteriormente
 V0611;1 ;Nos últimos três meses, utilizou a Internet em algum local
-V0611;1 ;Nos últimos doze meses, utilizou a Internet em algum local
-V0611;1 ;O acesso à Internet foi feito através de microcomputador
-V0611;1 ;O acesso à Internet foi feito através de telefone celular
-V0611;1 ;O acesso à Internet foi feito através de tablet
-V0611;1 ;O acesso à Internet foi feito através de tv
-V0611;1 ;O acesso à Internet foi feito através de outro equipamento eletrônico
+V06111;1 ;Nos últimos doze meses, utilizou a Internet em algum local
+V06112;1 ;O acesso à Internet foi feito através de microcomputador
+V06113;1 ;O acesso à Internet foi feito através de telefone celular
+V06114;1 ;O acesso à Internet foi feito através de tablet
+V06115;1 ;O acesso à Internet foi feito através de tv
+V06116;1 ;O acesso à Internet foi feito através de outro equipamento eletrônico
 V0611;1 ;Tem telefone móvel celular para uso pessoal
 V0612;1 ;O informante desta parte foi
 V0701;1 ;Teve algum trabalho no período de referência de 365 dias
@@ -162,12 +162,12 @@ V9049;1 ;Tinha pelo menos um sócio ocupado, no mês de referência, no empreend
 V9050;1 ;Número de sócios ocupados, no mês de referência, no empreendimento do trabalho principal da semana de referência
 V9051;1 ;Tinha pelo menos um trabalhador não remunerado, no mês de referência, no trabalho principal da semana de referência
 V9052;1 ;Número de trabalhadores não remunerados ocupados, no mês de referência, no trabalho principal da semana de referência
-V9052;1 ;Era cadastrado no programa microempreendedor individual (MEI) 
-V9052;1 ; O pagamento do INSS e das taxas municipais e estaduais foi feito por meio do Documento de Arrecadação do Simples Nacional (DAS) 
-V9052;1 ;Buscou empréstimo de microcrédito em alguma instituição financeira 
-V9052;1 ;Conseguiu obter o microcrédito que procurou
-V9052;1 ;Recebeu alguma assistência técnica para esse trabalho
-V9052;1 ;Essa assistência técnica foi prestada por
+V90521;1 ;Era cadastrado no programa microempreendedor individual (MEI) 
+V90522;1 ; O pagamento do INSS e das taxas municipais e estaduais foi feito por meio do Documento de Arrecadação do Simples Nacional (DAS) 
+V90523;1 ;Buscou empréstimo de microcrédito em alguma instituição financeira 
+V90524;1 ;Conseguiu obter o microcrédito que procurou
+V90525;1 ;Recebeu alguma assistência técnica para esse trabalho
+V90526;1 ;Essa assistência técnica foi prestada por
 V9531;1 ;Código 1 - recebia normalmente rendimento mensal em dinheiro, no mês de referência, no trabalho principal da semana de referência
 V9532;12; Rendimento mensal em dinheiro que recebia normalmente, no mês de referência, no trabalho principal da semana de referência
 V9534;1 ;Código 3 - recebia normalmente rendimento mensal em produtos ou mercadorias, no mês de referência, no trabalho principal da semana de referência
