@@ -133,11 +133,11 @@ V9025;1 ;Vendeu alguma parte da produção principal do empreendimento no perío
 V9026;1 ;Comprador que adquiriu a totalidade, ou a maior parte, da produção principal do empreendimento que foi vendida no período de referência de 365 dias
 V9027;1 ;Algum tipo de produção desenvolvida no empreendimento foi consumida como alimentação pelos membros da unidade domiciliar no mês de referência
 V9028;1 ;Parcela da alimentação consumida pelos membros da unidade domiciliar, no mês de referência, que foi retirada de produção desenvolvida no empreendimento
-V9028;1 ;Algum morador deste domicílio recebeu financiamento de algum programa de crédito para produção 
-V9028;1 ;Esse financiamento de crédito foi do Programa Nacional de Fortalecimento da Agricultura Familiar- PRONAF
-V9028;1 ;Recebeu alguma assistência técnica 
-V9028;1 ;Essa assistência técnica foi prestada por:
-V9028;1 ;Recebeu sementes ou insumos de algum programa de distribuição gratuita para a produção desse trabalho
+V90281;1 ;Algum morador deste domicílio recebeu financiamento de algum programa de crédito para produção 
+V90282;1 ;Esse financiamento de crédito foi do Programa Nacional de Fortalecimento da Agricultura Familiar- PRONAF
+V90283;1 ;Recebeu alguma assistência técnica 
+V90284;1 ;Essa assistência técnica foi prestada por:
+V90285;1 ;Recebeu sementes ou insumos de algum programa de distribuição gratuita para a produção desse trabalho
 V9029;1 ;Posição na ocupação no trabalho principal da semana de referência
 V9030;1 ;A jornada normal desse trabalho estava totalmente compreendida no período de 5 horas da manhã às 10 horas da noite
 V9031;1 ;A jornada normal desse trabalho estava totalmente compreendida no período noturno de 10 horas da noite às 5 horas da manhã seguinte
@@ -173,9 +173,9 @@ V9532;12; Rendimento mensal em dinheiro que recebia normalmente, no mês de refe
 V9534;1 ;Código 3 - recebia normalmente rendimento mensal em produtos ou mercadorias, no mês de referência, no trabalho principal da semana de referência
 V9535;12; Rendimento mensal em valor dos produtos ou mercadorias que recebia normalmente, no mês de referência, no trabalho principal da semana de referência
 V9537;1 ;Código 5 - recebia normalmente rendimento mensal somente em benefícios, no mês de referência, no trabalho principal da semana de referência
-V9053;1 ;O empreendimento tem registro no Cadastro Nacional de Pessoa Jurídica - CNPJ
-V9053;1 ;Esse empreendimento possuía fatura ou nota fiscal para emitir aos clientes
-V9053;1 ;Esse empreendimento entregava contracheque a seus funcionários
+V90531;1 ;O empreendimento tem registro no Cadastro Nacional de Pessoa Jurídica - CNPJ
+V90532;1 ;Esse empreendimento possuía fatura ou nota fiscal para emitir aos clientes
+V90533;1 ;Esse empreendimento entregava contracheque a seus funcionários
 V9054;1 ;Tipo de estabelecimento ou onde era exercido o trabalho principal da semana de referência
 V9055;1 ;Morava em domicílio que estava no mesmo terreno ou área do estabelecimento em que tinha trabalho
 V9056;1 ;Ia direto do domicílio em que morava para o trabalho
