@@ -1,6 +1,6 @@
 Coluna;Tamanho;Título
 V0101;4 ;Ano de referência
-UF   ;2 ;Unidade da Federação
+UF;2 ;Unidade da Federação
 V0102;6 ;Número de controle
 V0103;3 ;Número de série
 V0301;2 ;Número de ordem
