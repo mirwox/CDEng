@@ -59,13 +59,13 @@ V0608;1 ;Este curso que frequentou anteriormente era seriado
 V0609;1 ;Concluiu, com aprovação, pelo menos a 1ª série deste curso que frequentou anteriormente
 V0610;1 ;Última série concluída com aprovação, neste curso que frequentou anteriormente
 V0611;1 ;Concluiu este curso que frequentou anteriormente
-V0611;1 ;Nos últimos três meses, utilizou a Internet em algum local
-V06111;1 ;Nos últimos doze meses, utilizou a Internet em algum local
-V06112;1 ;O acesso à Internet foi feito através de microcomputador
-V06113;1 ;O acesso à Internet foi feito através de telefone celular
-V06114;1 ;O acesso à Internet foi feito através de tablet
-V06115;1 ;O acesso à Internet foi feito através de tv
-V06116;1 ;O acesso à Internet foi feito através de outro equipamento eletrônico
+V06111;1 ;Nos últimos três meses, utilizou a Internet em algum local
+V061111;1 ;Nos últimos doze meses, utilizou a Internet em algum local
+V061112;1 ;O acesso à Internet foi feito através de microcomputador
+V061113;1 ;O acesso à Internet foi feito através de telefone celular
+V061114;1 ;O acesso à Internet foi feito através de tablet
+V061115;1 ;O acesso à Internet foi feito através de tv
+V061116;1 ;O acesso à Internet foi feito através de outro equipamento eletrônico
 V0611;1 ;Tem telefone móvel celular para uso pessoal
 V0612;1 ;O informante desta parte foi
 V0701;1 ;Teve algum trabalho no período de referência de 365 dias
