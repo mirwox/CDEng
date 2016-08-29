@@ -66,7 +66,7 @@ V061113;1 ;O acesso à Internet foi feito através de telefone celular
 V061114;1 ;O acesso à Internet foi feito através de tablet
 V061115;1 ;O acesso à Internet foi feito através de tv
 V061116;1 ;O acesso à Internet foi feito através de outro equipamento eletrônico
-V0611;1 ;Tem telefone móvel celular para uso pessoal
+V06112;1 ;Tem telefone móvel celular para uso pessoal
 V0612;1 ;O informante desta parte foi
 V0701;1 ;Teve algum trabalho no período de referência de 365 dias
 V0702;1 ;Exerceu tarefas em cultivo, pesca ou criação de animais, destinados à própria alimentação das pessoas moradoras no domicílio, no período de referência de 365 dias
