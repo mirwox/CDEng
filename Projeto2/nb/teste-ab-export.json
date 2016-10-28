@@ -1,0 +1,28 @@
+{
+  "logs" : {
+    "-KVAMnCdHvHCv7KjPMNB" : {
+      "tempo" : 1477659538279,
+      "tipo" : "inicio",
+      "user_id" : 947912844,
+      "versao" : "A"
+    },
+    "-KVAMvBHr_MJAn_oUJhv" : {
+      "tempo" : 1477659571047,
+      "tipo" : "final",
+      "user_id" : 947912844,
+      "versao" : "A"
+    },
+    "-KVANG40oYBdzvFqO2Lh" : {
+      "tempo" : 1477659660710,
+      "tipo" : "inicio",
+      "user_id" : 947912844,
+      "versao" : "B"
+    },
+    "-KVANK63iT-_vtI2NO0f" : {
+      "tempo" : 1477659677226,
+      "tipo" : "final",
+      "user_id" : 947912844,
+      "versao" : "B"
+    }
+  }
+}
