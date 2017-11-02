@@ -1,0 +1,342 @@
+Coluna;Tamanho;Título
+V0101;4 ;Ano de referência
+UF;2 ;Unidade da Federação
+V0102;6 ;Número de controle
+V0103;3 ;Número de série
+V0301;2 ;Número de ordem
+V0302;1 ;Sexo
+V3031;2 ;Dia de nascimento
+V3032;2 ;Mês de nascimento
+V3033;4 ;Ano de nascimento
+V8005;3 ;Idade do morador na data de referência
+V0401;1 ;Condição na unidade domiciliar
+V0402;1 ;Condição na família
+V0403;1 ;Número da família
+V0404;1 ;Cor ou raça
+V0405;1 ;Tem mãe viva
+V0406;1 ;Mãe mora no domicílio
+V0407;2 ; Número de ordem da mãe 
+V0408;1 ;Tem registro de nascimento
+V0409;1 ;Principal motivo de morar neste domícilio com outra(s) família(s)
+V0410;1 ;Intenção de se mudar e constituir outro domicílio
+V4111;1 ;Vive em companhia de cônjuge ou companheiro(a)
+V4112;1 ;Natureza da união
+V4011;1 ;Estado civil
+V0412;1 ;O informante desta parte foi
+V0501;1 ;Nasceu no município de residência
+V0502;1 ;Nasceu na Unidade da Federação de residência
+V5030;2 ;Lugar de nascimento
+V0504;1 ;Morou em outra Unidade da Federação ou país estrangeiro
+V0505;1 ;Morava na Unidade da Federação na data de referência 
+V5061;1 ;Tinha até 4 anos ininterruptos de residência na Unidade da Federação
+V5062;1 ;Tempo de residência na Unidade da Federação (até 4 anos)
+V5063;1 ;Tinha de 5 a 9 anos ininterruptos de residência na Unidade da Federação
+V5064;1 ;Tempo de residência na Unidade da Federação (de 5 a 9 anos)
+V5065;1 ;Tinha 10 anos ou mais de residência na Unidade da Federação
+V0507;1 ;Morava na Unidade da Federação há 5 anos da data de referência
+V5080;2 ;Lugar de residência há 5 anos da data de referência
+V5090;2 ;Lugar de residência anterior
+V0510;1 ;Morava no município na data de referência
+V0511;1 ;Morou em outro município na Unidade da Federação
+V5121;1 ;Tinha até 4 anos ininterruptos de residência no município
+V5122;1 ;Tempo de residência no município (até 4 anos)
+V5123;1 ;Tinha de 5 a 9 anos ininterruptos de residência no município
+V5124;1 ;Tempo de residência no município (de 5 a 9 anos)
+V5125;1 ;Tinha 10 anos ou mais de residência no município
+V5126;1 ;O informante desta parte foi
+V0601;1 ;Sabe ler e escrever
+V0602;1 ;Frequenta escola ou creche
+V6002;1 ;Rede de ensino
+V6020;1 ;Área da rede pública de ensino
+V6003;2 ;Curso que frequenta
+V6030;1 ;Duração do ensino fundamental
+V0604;1 ;O curso que frequenta é seriado
+V0605;1 ;Série que frequenta
+V0606;1 ;Anteriormente frequentou escola ou creche
+V6007;2 ;Curso mais elevado que frequentou anteriormente
+V6070;1 ;Duração do ensino fundamental que frequentou anteriormente
+V0608;1 ;Este curso que frequentou anteriormente era seriado
+V0609;1 ;Concluiu, com aprovação, pelo menos a 1ª série deste curso que frequentou anteriormente
+V0610;1 ;Última série concluída com aprovação, neste curso que frequentou anteriormente
+V0611;1 ;Concluiu este curso que frequentou anteriormente
+V06111;1 ;Nos últimos três meses, utilizou a Internet em algum local
+V061111;1 ;Nos últimos doze meses, utilizou a Internet em algum local
+V061112;1 ;O acesso à Internet foi feito através de microcomputador
+V061113;1 ;O acesso à Internet foi feito através de telefone celular
+V061114;1 ;O acesso à Internet foi feito através de tablet
+V061115;1 ;O acesso à Internet foi feito através de tv
+V061116;1 ;O acesso à Internet foi feito através de outro equipamento eletrônico
+V06112;1 ;Tem telefone móvel celular para uso pessoal
+V0612;1 ;O informante desta parte foi
+V0701;1 ;Teve algum trabalho no período de referência de 365 dias
+V0702;1 ;Exerceu tarefas em cultivo, pesca ou criação de animais, destinados à própria alimentação das pessoas moradoras no domicílio, no período de referência de 365 dias
+V0703;1 ;Exerceu tarefas em construção de prédio, cômodo, poço ou outras obras de construção, destinadas ao próprio uso das pessoas moradoras no domicílio, no período de referência de 365 dias
+V0704;1 ;Trabalhou na semana de referência
+V0705;1 ;Esteve afastado temporariamente do trabalho remunerado que tinha na semana de referência
+V7060;4 ;Código da ocupação no trabalho do período de captação de 358 dias
+V7070;5 ;Código da atividade principal do empreendimento no trabalho do período de captação de 358 dias
+V0708;1 ;Posição na ocupação no trabalho do período de captação de 358 dias
+V7090;4 ;Código da ocupação no trabalho da semana de referência
+V7100;5 ;Código da atividade principal do empreendimento no trabalho da semana de referência
+V0711;1 ;Posição na ocupação no trabalho da semana de referência
+V7121;1 ;Código 2 - recebia normalmente rendimento mensal em dinheiro no mês de referência no(s) trabalho(s) da semana de referência
+V7122;12; Rendimento mensal em dinheiro que recebia normalmente no mês de referência no(s) trabalho(s) da semana de referência
+V7124;1 ;Código 4 - recebia normalmente rendimento mensal em produtos ou mercadorias no mês de referência no(s) trabalho(s) da semana de referência
+V7125;12; Rendimento mensal em valor dos produtos ou mercadorias que recebia normalmente no mês de referência no(s) trabalho(s) da semana de referência
+V7127;1 ;Código 6 - recebia normalmente rendimento mensal somente em benefícios no mês de referência no(s) trabalho(s) da semana de referência
+V7128;1 ;Código 8 - era trabalhador não remunerado no(s) trabalho(s) da semana de referência
+V0713; 2; Número de horas habitualmente trabalhadas por semana no(s) trabalho(s) da semana de referência
+V0714;1 ;Cuidava dos afazeres domésticos na semana de referência
+V0715; 2; Número de horas que dedicava normalmente por semana aos afazeres domésticos
+V0716;1 ;O informante desta parte foi
+V9001;1 ;Trabalhou na semana de referência
+V9002;1 ;Esteve afastado temporariamente do trabalho remunerado que tinha na semana de referência
+V9003;1 ;Exerceu tarefas em cultivo, pesca ou criação de animais, destinados à própria alimentação das pessoas moradoras no domicílio, na semana de referência
+V9004;1 ;Exerceu tarefas em construção de prédio, cômodo, poço ou outras obras de construção, destinadas ao próprio uso das pessoas moradoras no domicílio, na semana de referência
+V9005;1 ;Número de trabalhos que tinha na semana de referência
+V9906;4 ;Código da ocupação no trabalho principal da semana de referência
+V9907;5 ;Código da atividade principal do empreendimento no trabalho principal da semana de referência
+V9008;2 ;Posição na ocupação no trabalho principal da semana de referência
+V9009;1 ;Recebia do empregador alguma área para produção particular
+V9010;1 ;Tinha parceria com o empregador
+V9011;1 ;Foi contratado somente por pessoa(s) responsável(véis) pelo(s) estabelecimento(s) em que trabalhou como empregado temporário no mês de referência
+V9012;1 ;Foi contratado como empregado temporário, somente por intermediário (empresa empreiteira, empreiteiro, gato, etc) no mês de referência
+V9013;1 ;Teve ajuda de trabalhador não remunerado membro da unidade domiciliar no mês de referência
+V9014;1 ;Número de trabalhadores não remunerados membros da unidade domiciliar, independentemente da idade, que ajudaram à pessoa que era empregado no mês de referência
+V9151;1 ;Código 1 - referente à 1ª parcela ou parcela única do empreendimento
+V9152;11; Área informada na 1ª parcela ou parcela única do empreendimento
+V9154; 7; Equivalência em m², referente à unidade de medida de superfície em V9152
+V9156;1 ;Código 3 - referente à 2ª parcela do empreendimento
+V9157;11; Área informada na 2ª parcela do empreendimento
+V9159; 7; Equivalência em m², referente à unidade de medida de superfície em V9157
+V9161;1 ;Código 5 - referente à 3ª parcela do empreendimento
+V9162;11; Área informada na 3ª parcela do empreendimento
+V9164; 7; Equivalência em m², referente à unidade de medida de superfície em V9162
+V9016;1 ;Tinha pelo menos um empregado temporário, no mês de referência, no trabalho principal da semana de referência
+V9017;1 ;Número de empregados temporários, no mês de referência, no trabalho principal da semana de referência
+V9018;1 ;Tinha pelo menos um empregado permanente, no mês de referência, no trabalho principal da semana de referência
+V9019;1 ;Número de empregados permanentes, no mês de referência, no trabalho principal da semana de referência
+V9201;1 ;Código 2 - referente à 1ª parcela ou parcela única do empreendimento
+V9202;11; Área informada na 1ª parcela ou parcela única do empreendimento
+V9204;7 ;Equivalência em m², referente à unidade de medida de superfície em V9202
+V9206;1 ;Código 4 - referente à 2ª parcela do empreendimento
+V9207;11; Área informada na 2ª parcela do empreendimento
+V9209;7 ;Equivalência em m², referente à unidade de medida de superfície em V9207
+V9211;1 ;Código 6 - referente à 3ª parcela do empreendimento
+V9212;11; Área informada na 3ª parcela do empreendimento
+V9214; 7; Equivalência em m², referente à unidade de medida de superfície em V9212
+V9021;1 ;Condição em relação ao empreendimento do grupamento agrícola
+V9022;1 ;Parceria contratada neste trabalho
+V9023;1 ;Forma contratada de pagamento pelo uso do bem, móvel ou imóvel, arrendado para o empreendimento
+V9024;1 ;Assumiu, previamente, o compromisso de vender uma parte da produção principal do empreendimento no período de referência de 365 dias
+V9025;1 ;Vendeu alguma parte da produção principal do empreendimento no período de referência de 365 dias
+V9026;1 ;Comprador que adquiriu a totalidade, ou a maior parte, da produção principal do empreendimento que foi vendida no período de referência de 365 dias
+V9027;1 ;Algum tipo de produção desenvolvida no empreendimento foi consumida como alimentação pelos membros da unidade domiciliar no mês de referência
+V9028;1 ;Parcela da alimentação consumida pelos membros da unidade domiciliar, no mês de referência, que foi retirada de produção desenvolvida no empreendimento
+V90281;1 ;Algum morador deste domicílio recebeu financiamento de algum programa de crédito para produção 
+V90282;1 ;Esse financiamento de crédito foi do Programa Nacional de Fortalecimento da Agricultura Familiar- PRONAF
+V90283;1 ;Recebeu alguma assistência técnica 
+V90284;1 ;Essa assistência técnica foi prestada por:
+V90285;1 ;Recebeu sementes ou insumos de algum programa de distribuição gratuita para a produção desse trabalho
+V9029;1 ;Posição na ocupação no trabalho principal da semana de referência
+V9030;1 ;A jornada normal desse trabalho estava totalmente compreendida no período de 5 horas da manhã às 10 horas da noite
+V9031;1 ;A jornada normal desse trabalho estava totalmente compreendida no período noturno de 10 horas da noite às 5 horas da manhã seguinte
+V9032;1 ;Setor do emprego no trabalho principal da semana de referência
+V9033;1 ;Área do emprego no trabalho principal da semana de referência
+V9034;1 ;Era militar do Exército, Marinha de Guerra ou Aeronáutica no trabalho principal da semana de referência
+V9035;1 ;Era funcionário público estatutário no trabalho principal da semana de referência
+V9036;1 ;Prestava serviço doméstico remunerado em mais de um domicílio, no mês de referência
+V9037;1 ;Exercia habitualmente esse trabalho pelo menos uma vez por semana
+V9038;1 ;Número de dias por semana que, habitualmente, prestava serviço doméstico remunerado
+V9039;1 ;Número de dias por mês que, habitualmente, prestava serviço doméstico remunerado
+V9040;1 ;Número de pessoas ocupadas, no mês de referência, no empreendimento do trabalho principal da semana de referência
+V9041;1 ;Forma contratada, verbalmente ou por escrito, para o cálculo da remuneração no trabalho principal da semana de referência
+V9042;1 ;Tinha carteira de trabalho assinada no trabalho principal da semana de referência 
+V9043;1 ;Recebeu auxílio para moradia no mês de referência
+V9044;1 ;Recebeu auxílio para alimentação no mês de referência
+V9045;1 ;Recebeu auxílio para transporte no mês de referência
+V9046;1 ;Recebeu auxílio para educação ou creche no mês de referência
+V9047;1 ;Recebeu auxílio para saúde ou reabilitação no mês de referência
+V9048;1 ;Número de empregados, no mês de referência, no empreendimento do trabalho principal da semana de referência
+V9049;1 ;Tinha pelo menos um sócio ocupado, no mês de referência, no empreendimento do trabalho principal da semana de referência
+V9050;1 ;Número de sócios ocupados, no mês de referência, no empreendimento do trabalho principal da semana de referência
+V9051;1 ;Tinha pelo menos um trabalhador não remunerado, no mês de referência, no trabalho principal da semana de referência
+V9052;1 ;Número de trabalhadores não remunerados ocupados, no mês de referência, no trabalho principal da semana de referência
+V90521;1 ;Era cadastrado no programa microempreendedor individual (MEI) 
+V90522;1 ; O pagamento do INSS e das taxas municipais e estaduais foi feito por meio do Documento de Arrecadação do Simples Nacional (DAS) 
+V90523;1 ;Buscou empréstimo de microcrédito em alguma instituição financeira 
+V90524;1 ;Conseguiu obter o microcrédito que procurou
+V90525;1 ;Recebeu alguma assistência técnica para esse trabalho
+V90526;1 ;Essa assistência técnica foi prestada por
+V9531;1 ;Código 1 - recebia normalmente rendimento mensal em dinheiro, no mês de referência, no trabalho principal da semana de referência
+V9532;12; Rendimento mensal em dinheiro que recebia normalmente, no mês de referência, no trabalho principal da semana de referência
+V9534;1 ;Código 3 - recebia normalmente rendimento mensal em produtos ou mercadorias, no mês de referência, no trabalho principal da semana de referência
+V9535;12; Rendimento mensal em valor dos produtos ou mercadorias que recebia normalmente, no mês de referência, no trabalho principal da semana de referência
+V9537;1 ;Código 5 - recebia normalmente rendimento mensal somente em benefícios, no mês de referência, no trabalho principal da semana de referência
+V90531;1 ;O empreendimento tem registro no Cadastro Nacional de Pessoa Jurídica - CNPJ
+V90532;1 ;Esse empreendimento possuía fatura ou nota fiscal para emitir aos clientes
+V90533;1 ;Esse empreendimento entregava contracheque a seus funcionários
+V9054;1 ;Tipo de estabelecimento ou onde era exercido o trabalho principal da semana de referência
+V9055;1 ;Morava em domicílio que estava no mesmo terreno ou área do estabelecimento em que tinha trabalho
+V9056;1 ;Ia direto do domicílio em que morava para o trabalho
+V9057;1 ;Tempo de percurso diário de ida da residência para o local de trabalho
+V9058;2 ; Número de horas habitualmente trabalhadas por semana no trabalho principal da semana de referência
+V9059;1 ;Era contribuinte para instituto de previdência no trabalho principal da semana de referência
+V9060;1 ;Instituto de previdência para o qual contribuía no trabalho principal da semana de referência
+V9611;2 ; Número de anos no trabalho principal da semana de referência, contados até a data de referência
+V9612;2 ; Número de meses no trabalho principal da semana de referência, contados até a data de referência
+V9062;1 ;Saiu de algum trabalho no período de captação de 358 dias
+V9063;1 ;De quantos trabalhos saiu no período de captação de 358 dias
+V9064;2 ; Número de meses que permaneceu nesse trabalho anterior no período de captação de 358 dias
+V9065;1 ;Era empregado com carteira de trabalho assinada nesse trabalho anterior
+V9066;1 ;Recebeu seguro-desemprego depois que saiu desse emprego anterior
+V9067;1 ;Teve algum trabalho no período de captação de 358 dias
+V9068;1 ;Exerceu tarefas em cultivo, pesca ou criação de animais, destinados à própria alimentação das pessoas moradoras no domicílio, no período de captação de 358 dias
+V9069;1 ;Exerceu tarefas em construção de prédio, cômodo, poço ou outras obras de construção, destinadas ao próprio uso das pessoas moradoras no domicílio, no período de captação de 358 dias
+V9070;1 ;De quantos trabalhos saiu no período de captação de 358 dias
+V9971;4 ;Código da ocupação no trabalho anterior do período de captação de 358 dias 
+V9972;5 ;Código da atividade principal do empreendimento no trabalho anterior do período de captação de 358 dias
+V9073;2 ;Posição na ocupação no trabalho anterior do período de captação de 358 dias
+V9074;1 ;Nesse emprego anterior recebia do empregador alguma área para produção particular
+V9075;1 ;Nesse emprego anterior tinha parceria com o empregador
+V9076;1 ;Condição em relação ao empreendimento agrícola nesse trabalho anterior
+V9077;1 ;Posição na ocupação nesse trabalho anterior
+V9078;1 ;Setor do emprego nesse trabalho anterior
+V9079;1 ;Área do emprego nesse trabalho anterior
+V9080;1 ;Era militar do Exército, Marinha de Guerra ou Aeronáutica nesse trabalho anterior
+V9081;1 ;Era funcionário público estatutário nesse trabalho anterior
+V9082;1 ;Prestava serviço doméstico remunerado em mais de um domicílio nos últimos 30 dias em que esteve nesse trabalho anterior
+V9083;1 ;Tinha carteira de trabalho assinada nesse trabalho anterior
+V9084;1 ;Após sair desse emprego anterior, recebeu seguro-desemprego
+V9085;1 ;Era contribuinte de instituto de previdência por esse trabalho anterior
+V9861;2 ; Número de anos nesse trabalho anterior
+V9862;2 ; Número de meses nesse trabalho anterior
+V9087;1 ;Era associado a algum sindicato no mês de referência
+V9088;1 ;Tipo de sindicato
+V9891;1 ;Faixa de idade em que começou a trabalhar
+V9892;2 ; Idade com que começou a trabalhar
+V9990;4 ;Código da ocupação no trabalho secundário da semana de referência
+V9991;5 ;Código da atividade principal do empreendimento no trabalho secundário da semana de referência
+V9092;1 ;Posição na ocupação no trabalho secundário da semana de referência
+V9093;1 ;Setor do emprego nesse trabalho secundário
+V9094;1 ;Área do emprego nesse trabalho secundário
+V9095;1 ;Era militar do Exército, Marinha de Guerra ou Aeronáutica nesse trabalho secundário
+V9096;1 ;Era funcionário público estatutário nesse trabalho secundário
+V9097;1 ;Tinha carteira de trabalho assinada nesse trabalho secundário 
+V9981;1 ;Código 2 - recebia normalmente rendimento mensal em dinheiro, no mês de referência, nesse trabalho secundário
+V9982;12; Rendimento mensal em dinheiro que recebia normalmente, no mês de referência, nesse trabalho secundário
+V9984;1 ;Código 4 - recebia normalmente rendimento mensal em produtos ou mercadorias, no mês de referência, nesse trabalho secundário
+V9985;12; Rendimento mensal em valor dos produtos ou mercadorias que recebia normalmente, no mês de referência, nesse trabalho secundário
+V9987;1 ;Código 6 - recebia normalmente rendimento mensal somente em benefícios, no mês de referência, nesse trabalho secundário
+V9099;1 ;Era contribuinte de instituto de previdência nesse trabalho secundário
+V9100;1 ;Instituto de previdência para o qual contribuía nesse emprego secundário
+V9101;2 ; Número de horas habitualmente trabalhadas por semana nesse trabalho secundário
+V1021;1 ;Código 2 - recebia normalmente rendimento mensal em dinheiro, no mês de referência, no(s) outro(s) trabalho(s) da semana de referência
+V1022;12; Rendimento mensal em dinheiro que recebia normalmente, no mês de referência, no(s) outro(s) trabalho(s) da semana de referência
+V1024;1 ;Código 4 - recebia normalmente rendimento mensal em produtos ou mercadorias, no mês de referência, no(s) outro(s) trabalho(s) da semana de referência
+V1025;12; Rendimento mensal em valor dos produtos ou mercadorias que recebia normalmente, no mês de referência, no(s) outro(s) trabalho(s) da semana de referência
+V1027;1 ;Código 6 - recebia normalmente rendimento mensal somente em benefícios no mês de referência, no(s) outro(s) trabalho(s) da semana de referência
+V1028;1 ;Código 8 - era trabalhador não remunerado, no mês de referência, no(s) outro(s) trabalho(s) da semana de referência
+V9103;1 ;Era contribuinte de instituto de previdência, por esse(s) outro(s) trabalho(s) da semana de referência
+V9104;1 ;Instituto de previdência para o qual contribuía nesse(s) outro(s) trabalho(s) da semana de referência
+V9105;2 ; Número de horas habitualmente trabalhadas por semana nesse(s) outro(s) trabalho(s) da semana de referência
+V9106;1 ;Teve algum trabalho antes do período de referência de 365 dias
+V9107;1 ;Exerceu tarefas em cultivo, pesca ou criação de animais, destinados à própria alimentação das pessoas moradoras no domicílio, antes do período de referência de 365 dias
+V9108;1 ;Exerceu tarefas em construção de prédio, cômodo, poço ou outras obras de construção, destinadas ao próprio uso das pessoas moradoras no domicílio,  antes do período de referência de 365 dias
+V1091;2 ; Número de anos, contados até a data de referência, desde que saiu do último trabalho
+V1092;2 ; Número de meses, contados até a data de referência, desde que saiu do último trabalho
+V9910;4 ;Código da ocupação no útimo trabalho que teve no período de referência de menos de 4 anos
+V9911;5 ;Código da atividade principal do empreendimento nesse último trabalho que teve no período de referência de menos de 4 anos
+V9112;1 ;Posição na ocupação no último trabalho no período de referência de menos de 4 anos
+V9113;1 ;Era militar ou funcionário público estatutário nesse último trabalho 
+V9114;1 ;Tinha carteira de trabalho assinada nesse último trabalho 
+V9115;1 ;Tomou alguma providência para conseguir trabalho na semana de referência
+V9116;1 ;Tomou alguma providência para conseguir trabalho no período de captação de 23 dias
+V9117;1 ;Tomou alguma providência para conseguir trabalho no período de captação de 30 dias
+V9118;1 ;Tomou alguma providência para conseguir trabalho no período de captação de 305 dias
+V9119;1 ;Última providência que tomou para conseguir trabalho no período de referência de 365 dias
+V9120;1 ;Era contribuinte de alguma entidade de previdência privada, no mês de referência
+V9121;1 ;Cuidava dos afazeres domésticos na semana de referência
+V9921;2 ; Número de horas que dedicava normalmente por semana aos afazeres domésticos
+V9122;1 ;Era aposentado de instituto de previdência federal (INSS), estadual ou municipal ou do governo federal na semana de referência
+V9123;1 ;Era pensionista de instituto de previdência federal (INSS), estadual ou municipal ou do governo federal na semana de referência
+V9124;1 ;Recebia normalmente rendimento que não era proveniente de trabalho (pensão alimentícia ou de fundo de pensão, abono de permanência, aluguel, doação, juros de caderneta de poupança, dividendos ou outro qualquer) no mês de referência
+V1251;2 ;Código 01 - recebia normalmente rendimento de aposentadoria de instituto de previdência ou do governo federal, no mês de referência
+V1252;12; Rendimento de aposentadoria de instituto de previdência ou do governo federal que recebia, normalmente, no mês de referência
+V1254;2 ;Código 02 - recebia normalmente rendimento de pensão de instituto de previdência ou do governo federal, no mês de referência
+V1255;12; Rendimento de pensão de instituto de previdência ou do governo federal que recebia, normalmente, no mês de referência
+V1257;2 ;Código 03 - recebia normalmente rendimento de outro tipo de aposentadoria, no mês de referência
+V1258;12; Rendimento de outro tipo de aposentadoria que recebia, normalmente, no mês de referência
+V1260;2 ;Código 04 - recebia normalmente rendimento de outro tipo de pensão, no mês de referência
+V1261;12; Rendimento de outro tipo de pensão que recebia, normalmente, no mês de referência
+V1263;2 ;Código 05 - recebia normalmente rendimento de abono de permanência, no mês de referência
+V1264;12; Rendimento de abono de permanência que recebia, normalmente, no mês de referência
+V1266;2 ;Código 06 - recebia normalmente rendimento de aluguel, no mês de referência
+V1267;12; Rendimento de aluguel que recebia, normalmente, no mês de referência
+V1269;2 ;Código 07 - recebia normalmente rendimento de doação de não morador, no mês de referência
+V1270;12; Rendimento de doação de não morador que recebia, normalmente, no mês de referência
+V1272;2 ;Código 08 - recebia normalmente juros de caderneta de poupança ou de outras aplicações financeiras, dividendos, programas sociais ou outros rendimentos, no mês de referência
+V1273;12; Juros de caderneta de poupança e de outras aplicações financeiras, dividendos, programas sociais e outros rendimentos que recebia, normalmente, no mês de referência
+V9126;1 ;O informante desta parte foi
+V1101;1 ;Teve algum filho nascido vivo até a data de referência
+V1141;2 ;Número de filhos tidos, do sexo masculino, que moravam no domicílio
+V1142;2 ;Número de filhos tidos, do sexo feminino, que moravam no domicílio
+V1151;2 ;Número de filhos tidos, do sexo masculino, ainda vivos que moravam em outro local qualquer
+V1152;2 ;Número de filhos tidos, do sexo feminino, ainda vivos que moravam em outro local qualquer
+V1153;1 ;Código 5 - Não sabe o número de filhos tidos, do sexo masculino, que moravam em outro local qualquer
+V1154;1 ;Código 7 - Não sabe o número de filhos tidos, do sexo feminino, que moravam em outro local qualquer
+V1161;2 ;Número de filhos tidos, do sexo masculino, que morreram
+V1162;2 ;Número de filhos tidos, do sexo feminino, que morreram
+V1163;1 ;Código 6 - Não sabe o número de filhos tidos, do sexo masculino, que já morreram
+V1164;1 ;Código 8 - Não sabe o número de filhos tidos, do sexo feminino, que já morreram
+V1107;1 ;Sexo do último filho tido nascido vivo até a data de referência
+V1181;2 ;Mês de nascimento do último filho tido nascido vivo
+V1182;4 ;Ano de nascimento do último filho tido nascido vivo
+V1109;1 ;O último filho tido nascido vivo ainda estava vivo na data de referência
+V1110;1 ;Teve algum filho, com 7 meses ou mais de gestação, que nasceu morto até a data de referência
+V1111;2 ;Número de filhos tidos nascidos mortos, do sexo masculino, até a data de referência
+V1112;2 ;Número de filhos tidos nascidos mortos, do sexo feminino, até a data de referência
+V1113;1 ;Código 5 - Não sabe o número de filhos tidos nascidos mortos, do sexo masculino, até a data de referência
+V1114;1 ;Código 7 - Não sabe o número de filhos tidos nascidos mortos, do sexo feminino, até a data de referência
+V1115;1 ;O informante desta parte foi
+V4801;2 ;Nível de ensino, duração do ensino fundamental e série que frequentavam (todos os estudantes)
+V4802;2 ;Nível de ensino e grupos de séries do ensino fundamental que frequentavam (todos os estudantes)
+V4803;2 ;Anos de estudo (todas as pessoas)
+V4704;1 ;Condição de atividade
+V4805;1 ;Condição de ocupação no período de referência de 365 dias
+V4706;2 ;Posição na ocupação no trabalho principal
+V4707;1 ;Horas habitualmente trabalhadas por semana em todos os trabalhos
+V4808;1 ;Atividade principal do empreendimento do trabalho principal 
+V4809;2 ;Grupamentos de atividade principal do empreendimento do trabalho principal 
+V4810;2 ;Grupamentos ocupacionais do trabalho principal
+V4711;1 ;Contribuição para instituto de previdência em qualquer trabalho 
+V4812;1 ;Atividade principal do empreendimento no trabalho principal do período de referência de 365 dias
+V4713;1 ;Condição de atividade no trabalho principal do período de referência de 365 dias
+V4814;1 ;Condição de ocupação no período de referência de 365 dias
+V4715;2 ;Posição na ocupação no trabalho principal do período de referência de 365 dias
+V4816;2 ;Grupamentos de atividade no trabalho principal do período de referência de 365 dias
+V4817;2 ;Grupamentos ocupacionais do trabalho principal do período de referência de 365 dias
+V4718;12; Rendimento mensal do trabalho principal para pessoas de 10 anos ou mais de idade
+V4719;12; Rendimento mensal de todos os trabalhos para pessoas de 10 anos ou mais de idade
+V4720;12; Rendimento mensal de todas as fontes para pessoas de 10 anos ou mais de idade
+V4721;12; Rendimento mensal domiciliar
+V4722;12; Rendimento mensal familiar 
+V4723;2 ;Tipo de família
+V4724;2 ;Número de componentes da família 
+V4727;1 ;Código de área censitária
+V4728;1 ;Código de situação censitária
+V4729;5 ; Peso da pessoa
+V4732;5 ; Peso da família
+V4735;1 ;Controle da tabulação de fecundidade, para mulheres com 10 anos ou mais de idade
+V4838;1 ;Grupos de anos de estudo
+V6502;1 ;Criança de 5 a 17 anos de idade
+V4741;2 ; Número de componentes do domícilio 
+V4742;12; Rendimento mensal domiciliar per capita 
+V4743;2 ;Faixa de rendimento mensal domiciliar per capita 
+V4745;1 ;Nível de instrução mais elevado alcançado
+V4746;1 ;Situação de ocupação na semana de referência das pessoas de 5 anos ou mais de idade
+V4747;1 ;Atividade principal do empreendimento do trabalho principal 
+V4748;1 ;Atividade principal do empreendimento do trabalho principal do período de referência de 365 dias
+V4749;1 ;Situação de ocupação no período de referência de 365 dias das pessoas de 5 anos ou mais de idade
+V4750;12; Rendimento mensal familiar per capita 
+V9993;8 ;data de geração do arquivo
